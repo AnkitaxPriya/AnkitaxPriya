@@ -1,16 +1,21 @@
-### Hi there 👋
+## नमस्ते (Namaste)🙏🏻, I'm Ankita Priya! 
 
-<!--
-**AnkitaxPriya/AnkitaxPriya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+````bash
+> help --info
+> Hails from India.
+> Pronouns: she | her
+> Currently an undergrad @ Birla Institute of Technology, Mesra batch of '22 studying Computer Science and Engineering.
+> An avid reader, an occasional artist, a food-lover, a sky-gazer who mainly knows how to program in C++ and Python. 
+> An open-source enthusiast. 
+> Is currently exploring the world of Machine Learning and Deep Learning to see what all the fuss is about. 
+> Is a Microsoft Learn Student Ambassador. 
+> Always curious and a learner for life!
+````
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+````bash
+> help --contact
+> linkedin: ankita-priya
+> github: AnkitaxPriya
+> twitter: AnkitaxPriya
+> mailto: ankitapriya2011 [at] gmail.com
+````
