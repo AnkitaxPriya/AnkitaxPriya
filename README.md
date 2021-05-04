@@ -4,11 +4,11 @@
 > help --info
 > Hails from India.
 > Pronouns: "she" | "her"
-> Is a junior year student of Computer Science Engineering @Birla Institute of Technology, Mesra (Class of 2022).
+> A junior year student of Computer Science Engineering @Birla Institute of Technology, Mesra (Class of 2022).
 > Mainly knows how to program in C++ and Python.
 > An avid reader, an occasional artist, a food-lover, a sky-gazer who is also an open-source enthusiast. 
 > Is currently exploring the world of Machine Learning and Deep Learning to see what all the fuss is about. 
-> Is a Microsoft Learn Student Ambassador and a former lead at GirlScript.
+> A Microsoft Learn Student Ambassador and a former lead at GirlScript.
 > Always curious and a learner forever.
 ````
 
